@@ -1,0 +1,572 @@
+1. What is AWS?
+
+Amazon Web Services (AWS) is a Comprehensive Cloud platform that offers more than 165 services such as database storage, content delivery, security infrastructure, etc., from data centers worldwide. The robust infrastructure and agility at low costs are important reasons for its adoption from startups to large scale enterprises.
+
+2. What is Cloud Computing?
+
+Cloud computing provides various features of a computer in a comprehensive platform via the internet. Cloud computing offers computing power, database, software, storage, applications, security, etc. at reduced costs and improves performance. With Cloud computing, huge investments in hardware and software are reduced drastically and pay only for the services utilized.
+
+3. What is a Container?
+
+Containers help to package software’s code and configuration into an object. Containers utilize the OS installed on the server and ensures stable, consistent and speedy deployment independent of the environment.
+
+AWS Cloud provides the resources to run containers and also offers orchestration services for building and operating applications that are packed in containers.
+
+This is predominantly useful in DevOps based processes supported by AWS.
+
+DevOps training in Chennai at FITA Academy helps the learners to understand the in-depth concepts in DevOps. Interested candidates can also join AWS Training at FITA Academy.
+
+4. What is a Data lake?
+
+Data Lake is a repository to store structured and unstructured data of any scale. They are mainly utilized in Big Data and Data Science since we can store data in its original form without any need to structure the Data and it is possible to perform various analysis to arrive at better solutions.
+
+Big Data Training in Chennai at FITA Academy helps aspirants to excel in their careers with the knowledge acquired from experienced professional tutors.
+
+5. What is the difference between Data Warehouse and Data Lake?
+
+Data Warehouse	Data Lake
+Data is relational from transactional systems and operational databases.	Data is both non-relational and relational from various sources such as IoT devices, mobile apps, websites, and social media.
+Provides fastest query results at high cost of storage.	Provides faster query results at low storage cost.
+Used by Business analysts.	Used by Data scientists, Data developers, and Business analysts.
+Helps in Batch reporting, BI and visualizations	Helps to perform various analytics such as Machine Learning, Predictive analytics, data discovery and profiling
+6. What are the main components of AWS?
+
+The key components of AWS are:
+
+Simple Email service
+Route 53
+Simple Storage Device S3
+Elastic compute cloud( EC2)
+Elastic Block Store
+Cloud watch
+7. What is S3?
+
+S3 implies the Simple Storage Service. S3 refers to a storage service capable of storing volumes of data from anywhere around the globe. For utilising S3 one can pay only for the usage in the Pay-as-you-go model of payment. AWS Course helps students to clearly understand key components of AWS such as S3.
+
+8. What is the importance of buffer in AWS?
+
+A buffer helps to integrate and synchronize various components in AWS and helps to maintain equilibrium by linking multiple apparatus to deliver quick services at a uniform rate.
+
+9. Explain the various storage classes available in S3?
+
+The various storage classes available in S3 are listed below.
+
+Standard frequency accessed
+RRS – reduced redundancy storage
+Standard infrequency accessed
+One-zone infrequency accessed
+Glacier.
+AWS Training provides comprehensive knowledge on AWS and its components to make a career in AWS based jobs.
+
+10. What is Snowball?
+
+Snowball is a transporting option available in AWS to transport the data in and out of AWS. Snowball helps to transfer immense data at low networking cost.
+
+AWS Online Training helps you to develop industry-relevant skills to become an AWS Engineer.
+
+11. What are key-pairs?
+
+Key Pairs are used to connect to the virtual machines. The secure login credentials used to connect to virtual machines are known as Key pairs. Key-pairs in AWS is the commonly asked AWS interview question.
+
+12. What are the types of volumes in EBS?
+
+Various types of Volumes in EBS are listed below.
+
+General-purpose
+Magnetic
+Provisioned IOPS
+Cold HDD
+Throughput optimized
+13. What is the total number of buckets that can be created in AWS by default ?
+
+One Hundred(100) buckets can be created in each AWS account by default. We can also increase the number of buckets by submitting a request form to Amazon.
+
+14. List some important features of a classic load balancer in EC2.
+
+Distributes traffic among various EC2 instances evenly and ensures high scalability for the incoming traffic.
+
+Load balancer decides on routing the traffic by accessing the health of the systems.
+
+Load Balancer can route traffic from a user to the same Virtual Machine for any number of instances for a hasslefree experience.
+
+15. Can we use Amazon Transfer acceleration and Snowball to transfer data across countries?
+
+Amazon Transfer Acceleration can accelerate Data Transfer by 300% with the help of amazon content delivery network and optimised networks. Whereas Snowball is not compatible to support Cross Region data transfer.
+
+16. List various connection issues faced while connecting to an EC2 instance.
+
+Server refusing Key
+Connection timeout
+unprotected Private Key
+Host Key missing
+User Key unrecognised
+17. What is an AMI?
+
+Amazon Machine Image contains various software configurations, block device mapping for allocating volumes to the virtual machine and launch permissions.
+
+18. What is an EIP?
+
+An elastic IP address is useful for dynamic cloud computing where we can stop and restart the instances multiple times.
+
+19. What is Cloudwatch?
+
+Cloudwatch is helpful to monitor various features of the AWS such as networks, storage, applications, the health of the systems, etc.
+
+20. What are the types in cloudwatch?
+
+Basic- Free service
+
+Detailed – Charged service
+
+21. List the cloudwatch metrics that are available for EC2 instances.
+
+Various Cloudwatch metrics available for EC2 instances are mentioned below.
+
+CPU utilisation
+CPU credit usage
+CPU credit balance
+networkIn
+networkOut
+Diskreads
+Diskwrites
+22. What are the different storage classes in S3?
+
+Different types of storage classes in S3 are listed below.
+
+Glacier
+One-zone infrequently accessed.
+Standard infrequently accessed
+Standard frequently accessed
+RRS – reduced redundancy storage
+22. List various parameters involved in S3 pricing.
+
+The parameters determining the S3 pricing are listed below.
+
+Data transfer
+Storage utilised
+Transfer acceleration
+Storage management
+Number of requests
+Types of Storage Classes in S3 is the basic question asked in the AWS interview.
+
+24. Methods to encrypt data in S3.
+
+Various methods used to encrypt data in S3 are listed below.
+
+C (Client-Side)
+S3 (AES 256 encryption)
+KMS (Key Management Service)
+25. What is the prerequisite for Cross-region replication in S3?
+
+The source and destination buckets should be in different regions and versioning must be enabled at both the source and destination. We also have a set of Python Interview Questions that are asked frequently to the freshers. You can find those questions on clicking the preceding link.
+
+26. Explain Policies.
+
+Policies refer to permissions attached to the created users to access AWS account.
+
+27. List the Types of Policies
+
+Inline policies
+Managed policies
+28. What is CloudFront?
+
+Cloudfront refers to an AWS service that can effectively distribute the content of businesses and app developers with low latency at high-speed.
+
+29. What are the Roles?
+
+Roles are users with different accounts who help to permit trustable entities to an AWS account. There is no necessity to create login credentials for Roles to work on the resources.
+
+30. What are the Edge locations?
+
+Edge Location refers to the location where the contents are cached and can be useful when users access the content. If the searched content is unavailable in edge locations, the content will be created from an origin location and a copy of it will be saved in the edge locations.
+
+31. What is archive storage capacity in Glacier?
+
+Individual archives can be stored up to a maximum of 40 TB in Glacier.
+
+32. What is VPC?
+
+Virtual Private Cloud(VPC) helps the users to customise and configure networks easily. VPC permits users to have their internet gateways, Subnets, Nat Gateways and IP address range; isolated from other networks in the cloud.
+
+33. What is a VPC peering connection?
+
+VPC peering connection allows users to connect two or more Virtual Private Clouds and the instances in the connected VPC function coherently.
+
+34. How the security of VPC can be controlled?
+
+Security groups and Network Access Control List (NACL) can be utilised to regulate the security of a Virtual Private Cloud.
+
+35. What are NAT gateways?
+
+Network Address Translation gateways help the instances to be connected to the internet. NAT Gateways serve as a one-way traffic regulator since they prevent any initiation of a connection from the Internet to the instances.
+
+36. What are the different types of storage gateway?
+
+Various types of Storage Gateways are listed below.
+
+Tape gateway
+Volume gateway
+File gateway
+It is the basic interview question that should be known by any fresher before taking the AWS Interview.
+
+37. What is a redshift?
+
+Redshift is a data warehouse product of Amazon that provides fast and powerful services; completely manageable petabyte-scale warehouse.
+
+38. What are the database types in RDS?
+
+The Database types in RDS are listed below:
+
+MYSQL server
+Oracle
+SQL server
+Postgresql
+Aurora
+MariaDB
+39. What are the various Routing Policies in route53?
+
+List of various Routing Policies in route53.
+
+Simple routing
+Multivalue answer
+Geolocation routing
+Latency routing
+Weighted routing
+Failover routing
+40. What is SNS?
+
+Simple Notification Service(SNS) is a web service under AWS that notifies the user of any activity in the cloud that requires attention through mail or messages as desired by the user. Get access to Common  Selenium Interview Questions on clicking the following link.
+
+41. What is multi-AZ RDS?
+
+Multi-AZ RDS is helpful to make a replica of the production database to be available in other availability zones. They come handy in case of disaster recovery and primary database shutdown, to have a complete set of database as a backup.
+
+42. What are the types of backups in the RDS database?
+
+Types of backups in the RDS database.
+
+Automated
+Manual (also known as snapshots)
+43. Explain the usage of Classic Load Balancer and Application Load Balancer.
+
+Classic Load Balancer is designed for simple load balancing of traffic whereas Application Load Balancer helps in intelligent load balancing of traffic across various EC2 instances.
+
+Application Load Balancer is utilised to route traffic to multiple instances.
+
+44. Is there a way to upload a file greater than 100 MB in Amazon S3?
+
+Larger files can be uploaded using the Multipart Upload Utility in AWS, where the large files are uploaded in parts independently and parallel to decrease the upload time. The parts will be merged and converted into a single file once the upload is completed.
+
+45. What are some of the key best practices for security in Amazon EC2?
+
+Some of the best security practices in Amazon EC2 are listed below:
+
+Securing the AWS account and the access key.
+Creating separate Identity and Access Management(IAM) credentials to each user who has access to AWS resources.
+Disable unimportant services and applications in EC2 instances.
+Grant permissions to perform specified tasks and deny access for irrelevant resources.
+Review security infrastructure regularly.
+46. Differentiate between vertical and horizontal scaling in AWS.
+
+Vertical Scaling refers to the process of increasing the power and performance of an existing machine by adding up resources to the infrastructure.
+
+Horizontal Scaling refers to the scenario where the power and performance are augmented by adding new machines to the infrastructure.
+
+Vertical Scaling is restricted to handle a limited number of users and Horizontal Scaling comes to the rescue when the users are increasing in large numbers with clustering, load balancing and distributed file system.
+
+47. How will you access the data on EBS in AWS?
+
+Elastic Block Storage provides highly functional block-level storage that can be connected to any EC2 instance and accessed easily.
+
+This question is basically asked to the freshers to test their understanding on Elastic Block Storage in AWS.
+
+48. How can you speed up data transfer in Snowball?
+
+The data transfer can be increased in the following way:
+
+Performing multiple copy operations from different terminals, on the same Snowball device.
+Reducing encryption by Transferring large files or batches of small files.
+Prioritising activities on the source and snowball machine can improve the speed of data transfer.
+49. List the network performance parameters while launching instances in a cluster placement group?
+
+If Instances are launched in a cluster placement group, one can expect the performance parameters to be as mentioned below.
+
+20 Gbps in full-duplex (Multi-flow).
+10 Gbps in a single flow.
+Outside the group, network traffic will be restricted to 5 Gbps
+50. What is the difference between Scalability and Elasticity?
+
+Scalability refers to the ability of a system to increase the hardware requirements or processing nodes to tackle increasing demand.
+
+The elasticity of a system refers to the capability of the system to add resources for improving the performance when required and returning to the original configuration when resources are not required.
+
+This feature helps a lot in cloud computing since the resources are bought in the pay-as-you-go pricing.
+
+51. How to reduce the load on the Amazon EC2 instance?
+
+Attaching a load balancer to an autoscaling group will distribute the load effectively among various instances.
+
+52. Explain the purpose of Connection Draining
+
+Connection Draining will reroute the traffic from non-updated and health check failed instances.
+
+53. What is the purpose of lifecycle hooks in AutoScaling?
+
+Lifecycle hooks help to add wait time before launch or termination of an instance for extraction of log files or installation of necessary software respectively.
+
+AWS Training in Bangalore at FITA Academy helps aspirants to make a wonderful career with the skills and knowledge acquired through FITA Academy.
+
+54. What is Lambda?
+
+Lambda helps to run server-less applications and to deploy various functions that are triggered by events. Lambda cannot be used for developing applications that are accessible publicly.
+
+55. How does Elastic Beanstalk update?
+
+Elastic Beanstalk creates a replica of an instance and routes the traffic to the duplicate instance before updating an instance. In case the update fails, it will roll back to the original instance providing a hassle-free user experience.
+
+56. What is the use of tags?
+
+Tags are helpful to identify and group various AWS resources. AWS Training in Hyderabad at FITA Academy provides the students with the necessary training to understand the concepts of AWS and its application. Tutors at FITA Academy train the students with market-relevant skills and help the students in achieving their professional career.
+
+57. List the advantages of Cloud Computing.
+
+Elasticity
+Scalability
+Speed and Agility
+pay-as-you-use model
+Worldwide launch in unnoticeable time
+58. What is the Availability Zone?
+
+Availability Zone is also known as Data Centre that is designed as an independent failure zone with high-speed connectivity and low latency.
+
+59. What is Region?
+
+The Region is similar to a geographical location where there are independent collections of AWS resources connected in higher bandwidth.
+
+60. Explain Auto scaling and its components.
+
+Auto Scaling is an important feature that permits to increase or decrease the instances based on CPU or Memory utilisation. the components in Auto Scaling are Launch configuration and Auto-scaling groups.
+
+61. Explain Security Groups.
+
+Security Groups are enhanced security features that hold the traffic of the instances and serve as a firewall. One can frame rules to security groups to permit traffic among various instances for better monitoring of the security infrastructure. Security Groups is the frequently asked question in AWS Interview questions for freshers.
+
+62..Explain Amazon EBS-Optimized instances
+
+Amazon EBS-Optimized Instances utilises an optimized stack configuration and has additional capacity for Amazon EBS that can be selected by paying hourly charges based on usage.
+
+63. Which Automation Gears helps in Spinup Services?
+
+API tools such as API Fortress, Scripting languages like Perl and hybrid cloud management tools like Scarl are few such automation gears helpful for Spin Up Services.
+
+64. Explain Amazon EMR.
+
+Amazon Elastic Map Reduce is an administrative feature that can completely monitor Hadoop system on the Amazon EC2 instance.
+
+65. List the virtualization types in AWS.
+
+Hardware-Assisted Virtualisation
+Para Virtualization
+66. Explain Stateful and Stateless firewall.
+
+Any security group that regulates traffic among instances and various AWS resources is a Stateful firewall.
+
+A Stateless firewall is an Access Control List on a network at the subnet level and can allow or deny traffic based on rules.
+
+67. What do you know about Amazon Kinesis Firehose?
+
+It is a Data Firehouse that can help in stacking information in Information Stores or devices without the need for a continuous organization.
+
+68. What is Amazon DynamoDB?
+
+DynamoDB is a product of Amazon that provides fast and reliable Database services with increased performance and scalability for storage of humongous data at low costs.
+
+69. What is the association between AMI and Instance?
+
+AMI refers to Amazon Machine Image that acts as a template containing software configurations such as OS, server and applications. AMI can be used to launch an instance that replicates the AMI functioning as a virtual server and can be used to launch multiple instances also.
+
+70. What is the purpose of the cradle in AWS?
+Cradle serves the purpose of monitoring the synchronisation of a stack with different parts to maintain a robust framework. Cradle acts as a cushion to make the segments work efficiently enabling administration easier.
+
+71. What are the DB engines which can be used in AWS RDS?
+
+Various DB engines used in AWS RDS are listed below.
+
+MariaDB
+MS SQL DB
+MYSQL DB
+Oracle DB
+Postgre DB
+Different types of DB Engines that can be used in AWS RDS is also one of the commonly asked AWS interview questions for experienced.
+
+72. Explain the difference between the Service Role and SAML Federated Role.
+
+Service Role is used to specify a task in AWS services on the basis of various policies attached to it.
+
+Federated Roles are useful for providing access to AWS based on the designed Role.
+
+73. How a Root AWS user differs from an IAM User.
+
+Root AWS User is granted complete access to AWS services without any policy attached whereas an IAM User can access based on the policies attached to it.
+
+74. What is the benefit of creating a group in IAM
+
+Group Creation in IAM aids in managing the users with similar kind of policies attached and by changing the policies access to AWS can be easily managed for all the users in the Group.
+
+75. Explain the benefits of the Security Token Service( STS).
+
+STS helps to secure the AWS environment since the credentials are temporary and there is no necessity to revoke or rotate them. Click the following link to Know the Basic Java Interview questions that are asked to freshers in an Interview.
+
+76. What is the distinction between Amazon S3 and EC2?
+
+S3 refers to Simple Storage Service where bulk volumes of data can be stored and retrieved easily along with a REST interface and secure validation keys (HMAC_SHA1).
+
+EC2 refers to Elastic Compute Cloud is utilised for developing applications and run servers and various languages & tools such as Python, Ruby, Apache, Linux, PHP, HTML, etc.
+
+77. Explain Amazon CloudSearch.
+
+Amazon CloudSearch helps to incorporate various seek and fetch abilities on numerous applications. They support AWS ENgineers by reducing the time taken to perform changes or updates on various applications.
+
+78. Explain the AWS Certificate Manager.
+
+AWS Certificate Manager is an administrative feature for various activities using Secure Socket Layers to arrange interchanges and setting up of the character of various sites over the internet.
+
+79. What is an Auto Scaling group?
+
+Auto Scaling group contains various Amazon EC2 instances administered by Auto Scaling Services with each group containing various configuration options to decide launch or termination of instances. These are the most important Interview Questions on AWS.
+
+80. What is SES?
+
+Simple Email Service(SES) is a service provided by Amazon to send bulk Email to customers instantly reducing the cost of the service.
+
+81. What is SQS?
+
+Simple Queue Service (SQS) by Amazon provides quick and reliable message queuing service in which messages are queued temporarily until the user wish to send them to consumers. Basic Amazon Web Services Interview Questions for both freshers and experienced.
+
+82. Explain SNS.
+
+Simple Notification Service is an Amazon web service to coordinate the delivery of messages or emails to the recipients.
+
+This question is put forth to the freshers & experienced in the AWS Interview to test their understanding of AWS.
+
+83. What are the routing policies available in Amazon Route53?
+
+Various Routing Policies in Route53 are listed below.
+
+Simple
+Failover
+Weighted
+Geolocation
+Latency Based
+84. What is Lightsail?
+
+Amazon’s Lightsail helps to launch and control any virtual Private Server with AWS by providing various facilities like storage, data transfer, static IP, etc.
+
+85. Differentiate Basic and Detailed monitoring.
+
+Basic Monitoring interacts with Amazon Cloud watch at an interval of 5 minutes on a set of predetermined metrics at no cost.
+
+Detailed Monitoring interacts with Amazon Cloud watch round the clock and permits aggregation of data as a charged service.
+
+86. What is IaaS?
+
+IaaS refers to the cloud service that helps in running various services in the cloud platform on a pay-as-you-go basis.
+
+87. Explain Amazon ElastiCache.
+
+Amazon ElastiCache denotes the web service that helps in the management of memory caching environment.
+
+Benefits of ElastiCache are listed below.
+
+Scalable Caching Environment
+High Performance
+Cost-effectiveness
+88. What Is Lambda edge?
+
+Lambda Edge can perform various functions that run as a response to CloudFront events for executing various functions in AWS locations without a managing server.
+
+89. What is PaaS?
+
+PaaS helps to run various cloud platforms predominantly to develop, test and monitor the functioning of the software.
+
+90. List various layers of Cloud Architecture in AWS.
+
+Various layers of AWS Cloud architecture is listed below.
+
+Node Controller
+Cloud controller
+Cluster controller
+Storage Controller
+Join AWS Training in Coimbatore at FITA Academy to explore more about AWS.
+
+91. List some important features of Amazon cloud search.
+
+A few important features of Amazon Cloud search are listed below.
+
+Range searches
+Prefix Searches
+Entire text search
+Boolean searches
+AutoComplete advice
+92. How the instance type of the instances that are running in an application tier along with Auto Scaling can be changed?
+
+auto scaling launch configuration
+auto scaling tags configuration
+auto scaling policy configuration
+None of the above
+93. Where does the user specify the maximum number of instances using the auto scaling commands?
+
+Auto scaling tags configuration
+Auto Scaling group
+Auto Scaling launch configuration
+Auto scaling policy configuration
+94. Which among the below mentioned is a structured data store that can support indexing and data queries for EC2 and S3?
+
+DynamoDB
+Aurora
+SimpleDB
+MySQL
+95. The maximum permissible VPCs per account/region and subnets per VPC in AWS.
+
+4, 100
+5, 200
+7, 40
+3, 150
+96. Which among the following should be chosen for complex querying capabilities without whole data warehouse?
+
+RDS
+ElastiCache
+Redshift
+DynamoDB
+97. Which among the following should be chosen for collecting and processing e-commerce data with real-time analysis?
+
+DynamoDB
+Aurora
+Redshift
+SimpleDB
+98. Which among the following is used to transfer data among instances spread across countries to your Amazon S3 bucket?
+
+Amazon CloudFront
+Amazon Transfer Acceleration
+Amazon Snowball
+Amazon Glacier
+This is the Basic AWS interview questions that are asked to the freshers in an interview.
+
+99. Which among the below services is a data storage system that uses secure HMAC-SHA1 authentication keys?
+
+Amazon Elastic Block Store
+Amazon S3
+Amazon Snapshot
+100. Which Value should be set in the instance’s tenancy attribute for running single-tenant hardware?
+
+One
+Dedicated
+Reserved
+Isolated
+
+101. When costs are incurred in an Elastic IP address?
+
+EIP is allocated.
+EIP is allocated and associated with a running instance.
+EIP is allocated and associated with a stopped instance.
+None of the Above

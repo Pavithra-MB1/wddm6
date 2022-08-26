@@ -1,0 +1,34 @@
+"1.        Hands-On ->generate bucket policy for a specific IAM user for s3 bucket.
+2.        Hands-On ->generate bucket policy for a specific IAM user group for s3 bucket.
+3.        What is DNS?
+4.        What are the different types of Routing policy?
+5.        What is a hosted zone?
+6.        Hands-On- Create a domain name and map it in route 53 to a specific ec2 instance.
+8.        What is ASG? And how it works?
+9.        What is Auto Scaling?
+10.        Hands-On -> Change the instance type from t2 micro to t2. Medium.
+11.        Why auto scaling is only horizontal scaling ?Explain
+12.        What blue-green deployment?
+
+---------------------------------------------------
+"
+"1.	"1.What is High Availability ?
+2. What is Fault Tolerance?
+3.What are the different types of load balancers?Explain
+4.Hands-On ->Create a launch template
+5.Hands- On ->create a ASG and check whether the resources are distributed 	across the AZ
+6.Hands-On ->Create a Target group.
+7.Hands-On ->Create a Load balancer and test whether load balancing is happening.
+8. Explain about how the application will elastically scale in AWS.
+9. elasticity and scalability?
+
+-------------------------------
+2.	What is VPC?
+3.	What is a subnet?
+4.	What is a private subnet ?
+5.	What is a public subnet?
+6.	What is an Internet Gateway?
+7.	What is a Routing Table?
+8.	Hands-On ->create of VPC, Subnets, Internet gateway, Private route table, and association of the private subnets to the private RT. And also enabling auto assig of public IP for the public subnet.(Complete VPC setup)
+9.	What is a security group?
+10.	Create a security group for a webserver access. Hands-on

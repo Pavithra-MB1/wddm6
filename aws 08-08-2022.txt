@@ -1,0 +1,12 @@
+1.What is cloud Computing??
+2.What are the different types of cloud based on service and deployment?
+3.What is scaling??
+4.What are the different types of scaling? Explain
+5.What are the advantages of Cloud??
+6.What is a data center??
+7.What do you mean multi-tenant??
+8.What do you mean by Pay-as-you-go??
+9.What do you mean by cloud provider?
+10.What is cloud service???
+11.What are the key characteristics of cloud computing
+12.What is “X “as a service?
